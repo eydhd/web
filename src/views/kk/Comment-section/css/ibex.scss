@@ -50,3 +50,38 @@
   border-top-left-radius: 25px;
   border-bottom-left-radius: 25px;
 }
+.left-tree-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 20px;
+}
+
+.left-tree-btn button {
+  width: 50px;
+  height: 50px;
+  border: none;
+  border-radius: 8px;
+  background-color: #00d3ff;
+  color: white;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.left-tree-btn button:hover {
+  background-color: #f0f0f0;
+  color: #333;
+  transform: translateX(5px);
+  .left-tree-btn button:nth-child(2) {
+    margin-left: 15px;
+  }
+
+  .left-tree-btn button:nth-child(3) {
+    margin-left: 30px;
+  }
+
+  .left-tree-btn button:nth-child(4) {
+    margin-left: 45px;
+  }
+}
