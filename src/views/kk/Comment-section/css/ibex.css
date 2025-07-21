@@ -35,3 +35,18 @@
   border-top-right-radius: 25px;
   border-bottom-right-radius: 25px;
 }
+.cues button {
+  height: 34px;
+  line-height: 34px;
+  padding: 0 30px;
+  font-size: 20px;
+  border: none;
+  box-sizing: border-box;
+  background-color: #00d3ff;
+  color: #fff;
+  cursor: pointer;
+  border-top-right-radius: 25px;
+  border-bottom-right-radius: 25px;
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+}

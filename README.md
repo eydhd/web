@@ -1,19 +1,23 @@
 # web
 
 ## Project setup
+
 ```
-pnpm install
+pnpm i
 ```
 
 ### Compiles and hot-reloads for development
+
 ```
-pnpm run serve
+pnpm dev
 ```
 
 ### Compiles and minifies for production
+
 ```
 pnpm run build
 ```
 
 ### Customize configuration
+
 See [Configuration Reference](https://cli.vuejs.org/config/).
