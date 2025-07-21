@@ -3,8 +3,8 @@
     <button>首页</button>
     <button onclick="window.location.href = '/about'">文章</button>
     <button onclick="window.location.href = '/club'">俱乐部</button>
-    <button onclick="window.location.href = '/as'">评论区</button>
-    <button onclick="window.location.href = '/abo'">关于</button>
+    <button onclick="window.location.href = '/Comment'">评论区</button>
+    <button onclick="window.location.href = '/concerning'">关于</button>
   </div>
 </template>
 <style>

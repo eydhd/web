@@ -15,7 +15,7 @@ export default {
   data() {
     return {
       msg: "Welcome to the About Page",
-      someData: "评论区" // 定义 someData
+      someData: "关于" // 定义 someData
     };
   }
 };

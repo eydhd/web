@@ -55,6 +55,6 @@ p {
 </style>
 
 <script setup lang="ts">
-import { handleUpdate, handleUpdates } from "@/utils/w/Stabilization";
+import { handleUpdate, handleUpdates } from "../utils/Stabilization";
 const text = handleUpdate("", 1000);
 </script>
