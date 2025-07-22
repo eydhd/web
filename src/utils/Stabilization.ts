@@ -1,2 +1,4 @@
-export function handleUpdate(value: any, delay = 1000) {}
-export function handleUpdates(value: any, delay = 1000) {}
+import xss from "xss";
+export function examine() {}
+export function commentsinput() {}
+export function commentsoutput() {}
